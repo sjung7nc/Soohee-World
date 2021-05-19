@@ -1,3 +1,4 @@
 # Soohee-World
-Soohee's repository
+Soohee's repository.
+
 I am trying to edit this file!!
